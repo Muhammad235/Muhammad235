@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad235
 - 👀 I’m interested in programming and coding
-- 💞️ I’m looking to collaborate on web developing 
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me adelekeyahaya05@gmail.com
 
 <!---
