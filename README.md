@@ -1,5 +1,5 @@
 
-<!-- 
+
 
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
@@ -16,6 +16,7 @@
 - 💬 Ask me about **javascript, php, mysql**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-yahaya-865670228/**
+<!-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
