@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate fullstack web developer from Nigeria</h3>
+<!-- <h3 align="center">A passionate fullstack web developer from Nigeria</h3> -->
+<h3 align="center">A passionate a web developer from Nigeria</h3>
 <!-- 
 <img align="right" alt="muhammad" width="400"  src="https://www.google.com/search?q=animated+code+gif&tbm=isch&chips=q:animated+code+gif,online_chips:programming:rxumjqwLckM%3D&hl=en&sa=X&ved=2ahUKEwiOp8Ga3t35AhWMwikDHTgoD9AQ4lYoBHoECAEQKg&biw=1349&bih=695">  -->
 
@@ -13,7 +14,8 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **javascript, php, mysql**
+<!-- - 💬 Ask me about **javascript, php, mysql** -->
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-yahaya-865670228/**
 <!-- 
