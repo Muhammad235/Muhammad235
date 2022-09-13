@@ -1,4 +1,4 @@
-
+<!-- 
 
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad235&show_icons=true&locale=en&layout=compact" alt="muhammad235" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad235&show_icons=true&locale=en" alt="muhammad235" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad235&" alt="muhammad235" /></p>
+ -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad235&" alt="muhammad235" /></p> -->
