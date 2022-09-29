@@ -4,7 +4,7 @@
 <h3 align="center">A passionate a web developer from Nigeria</h3>
  
 
-<img align="left" alt="muhammad" width="400"  src="https://githubsearch11.netlify.app/images/avatar%20(1).png"> 
+<img align="right" alt="muhammad" width="400"  src="https://githubsearch11.netlify.app/images/avatar%20(1).png"> 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad235&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad235" /> </p>
 
