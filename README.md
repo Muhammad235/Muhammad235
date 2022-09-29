@@ -3,9 +3,8 @@
 <h3 align="center">A passionate fullstack web developer from Nigeria</h3> 
 <h3 align="center">A passionate a web developer from Nigeria</h3>
  
-/** <img align="right" alt="muhammad" width="400"  src="https://www.google.com/search?q=animated+code+gif&tbm=isch&chips=q:animated+code+gif,online_chips:programming:rxumjqwLckM%3D&hl=en&sa=X&ved=2ahUKEwiOp8Ga3t35AhWMwikDHTgoD9AQ4lYoBHoECAEQKg&biw=1349&bih=695"> **\
 
-<img align="right" alt="muhammad" width="400"  src="https://githubsearch11.netlify.app/images/avatar%20(1).png"> 
+<img align="center" alt="muhammad" width="400"  src="https://githubsearch11.netlify.app/images/avatar%20(1).png"> 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad235&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad235" /> </p>
 
