@@ -11,6 +11,14 @@ Within my code repository, you'll discover implementations that embody both eloq
 
 I look forward to building👯 with you don't hesitate to reach out 📫 **y.adeleke05@gmail.com**
 
+## ⚡ Projects
+<!-- PROJECTS START -->
+* [TravelApi]((https://github.com/Muhammad235/Travel-Api))(🔥 Travel Api with endpoints such as)
+* [TravelApi]((https://github.com/Muhammad235/Travel-Api))(🔥 Travel Api with endpoints such as)
+* [TravelApi]((https://github.com/Muhammad235/Travel-Api))(🔥 Travel Api with endpoints such as) 
+<!-- PROJECTS END -->
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad235" alt="muhammad235" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tech__wizard" target="blank"><img src="https://img.shields.io/twitter/follow/tech__wizard?logo=twitter&style=for-the-badge" alt="tech__wizard" /></a> </p>
