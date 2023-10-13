@@ -9,18 +9,14 @@
 
 ### Within my code repository, you'll discover implementations that embody both eloquence and elegance, resonating harmoniously with the core principles of Laravel and Vue framework.
 
+#### I look forward to building👯 with you don't hesitate to reach out 📫 **y.adeleke05@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad235" alt="muhammad235" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tech__wizard" target="blank"><img src="https://img.shields.io/twitter/follow/tech__wizard?logo=twitter&style=for-the-badge" alt="tech__wizard" /></a> </p>
 
-- 👯 I’m looking to collaborate on **web development**
 
-
-
-- 📫 How to reach me **adelekeyahaya05@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/tech__wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech__wizard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-yahaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yahaya" height="30" width="40" /></a>
