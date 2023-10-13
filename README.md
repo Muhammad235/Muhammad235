@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A fullstack developer</h3>
 
-<img align="center" alt="muhammad" width="400"  src="https://githubsearch11.netlify.app/images/avatar%20(1).png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad235&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad235" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **php and vue**
+
 
 - 📫 How to reach me **adelekeyahaya05@gmail.com**
 
