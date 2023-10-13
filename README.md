@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">Backend developer</h3>
 
-Dedicated backend developer proficient in Laravel and PHP, committed to crafting innovative solutions through the construction of resilient backend systems that prioritize scalability, efficiency, and security. I am an adept software craftsman with experience in building backend systems, APIs, and database architecture  with a particular passion for harnessing the power of Laravel/PHP. I am zealous about code quality and maintainability, embracing Laravel's elegant testing suite to ensure that every facet of the application functions flawlessly.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad235&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad235" /> </p>
+
+### A dedicated backend developer proficient in Laravel and PHP, committed to crafting innovative solutions through the construction of resilient backend systems that prioritize scalability, efficiency, and security. 
+
+### I am an adept software craftsman with experience in building backend systems, APIs, and database architecture  with a particular passion for harnessing the power of Laravel/PHP. I am zealous about code quality and maintainability, embracing Laravel's elegant testing suite to ensure that every facet of the application functions flawlessly.
+
+### Within my code repository, you'll discover implementations that embody both eloquence and elegance, resonating harmoniously with the core principles of Laravel and Vue framework.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad235" alt="muhammad235" /></a> </p>
 
