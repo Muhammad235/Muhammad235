@@ -42,5 +42,3 @@ I look forward to building👯 with you don't hesitate to reach out 📫 **y.ade
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad235&show_icons=true&locale=en" alt="muhammad235" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad235&" alt="muhammad235" /></p>
-
-......
