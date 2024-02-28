@@ -7,7 +7,7 @@ A dedicated backend developer proficient in Laravel and PHP, committed to crafti
 
 I am an adept software craftsman with experience in building backend systems, APIs, and database architecture  with a particular passion for harnessing the power of Laravel/PHP. I am zealous about code quality and maintainability, embracing Laravel's elegant testing suite to ensure that every facet of the application functions flawlessly.
 
-Within my code repository, you'll discover implementations that embody both eloquence and elegance, resonating harmoniously with the core principles of Laravel and Vue framework.
+Within my code repository, you'll discover implementations that embody both eloquence and elegance, resonating harmoniously with the core principles of Laravel and frontend technologies(JavaScript, jQuery, css and HTML)
 
 I look forward to building👯 with you don't hesitate to reach out 📫 **y.adeleke05@gmail.com**
 
